@@ -1,0 +1,3 @@
+Operación iniciada
+Resultado: 1.1111111111111112
+Operación finalizada
